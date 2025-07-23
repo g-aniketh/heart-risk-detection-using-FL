@@ -49,3 +49,4 @@ This repository presents a privacy-preserving machine learning pipeline to detec
 ## Authors
 - Aniketh Gandhari
 - Siddha Sankalp Topalle
+- Vivin Chandrra Paasam
